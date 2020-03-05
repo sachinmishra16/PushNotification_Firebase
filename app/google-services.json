@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "307742048983",
+    "firebase_url": "https://blueapple-projects.firebaseio.com",
+    "project_id": "blueapple-projects",
+    "storage_bucket": "blueapple-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307742048983:android:2367a927cd2388505ae692",
+        "android_client_info": {
+          "package_name": "com.blueapple.offclasses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307742048983-1qmi8lt7r63lqu57018bkarj075is6a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueapple.offclasses",
+            "certificate_hash": "e27dcaab9d06bf5ff6aff352629abe717edb9c66"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp5ywnzzAvAJLxaNqA_Pp6QGIo4LGR-PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307742048983:android:9c785a345743cb775ae692",
+        "android_client_info": {
+          "package_name": "com.blueapple.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307742048983-ovf6vd8kfcummb9h55c5ilrbmohkg6u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueapple.push_notification",
+            "certificate_hash": "d2e616c0227cc1fce87e030685003d5e31637ffc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp5ywnzzAvAJLxaNqA_Pp6QGIo4LGR-PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
